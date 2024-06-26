@@ -6,7 +6,7 @@
   body {
   
     text-align: center;
-    background-image: url("/bkgimg.jpg");
+    background-image: url("./bkgimg.jpg");
   }
   
   .container {
