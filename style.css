@@ -4,9 +4,11 @@
   }
   
   body {
-  
+   
     text-align: center;
-     background: linear-gradient(
+
+   
+    background: linear-gradient(
         112deg,
         rgba(104, 67, 151, 0.2) 3.52%,
         rgba(134, 94, 255, 0.07) 20.56%,
@@ -17,6 +19,8 @@
       ),
      url(./paul-volkmer-unsplash.png) lightgray 50% / cover no-repeat;
       lightgray 50% / cover no-repeat;
+
+   
   }
   
   .container {
@@ -44,8 +48,8 @@
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
-    color: #b0413e;
-    background-color: #ffffc7;
+    color: #870ad4;
+    background-color: #32e8f2;
   }
   
   #reset-btn {
@@ -82,4 +86,7 @@
   
   .hide {
     display: none;
+  }
+  h1{
+    color:aquamarine;
   }
