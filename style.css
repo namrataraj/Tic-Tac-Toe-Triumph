@@ -6,7 +6,17 @@
   body {
   
     text-align: center;
-    background-image: url("./bkgimg.jpg");
+     background: linear-gradient(
+        112deg,
+        rgba(104, 67, 151, 0.2) 3.52%,
+        rgba(134, 94, 255, 0.07) 20.56%,
+        rgba(133, 72, 232, 0.1) 25.57%,
+        rgba(133, 13, 204, 0.2) 99.83%,
+        rgba(139, 27, 205, 0.19) 126.34%,
+        rgba(217, 217, 217, 0) 136.42%
+      ),
+     url(./paul-volkmer-unsplash.png) lightgray 50% / cover no-repeat;
+      lightgray 50% / cover no-repeat;
   }
   
   .container {
